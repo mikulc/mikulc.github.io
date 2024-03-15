@@ -7,7 +7,7 @@
 
 body {
     height: 100vh;
-    background: url(source/SPY_FAMILY.png) no-repeat;
+    background: url(./source/SPY_FAMILY.png) no-repeat;
     background-size: cover;
     
     display: flex;

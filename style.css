@@ -7,9 +7,8 @@
 
 body {
     height: 100vh;
-    background: url(./source/SPY_FAMILY.png) no-repeat;
+    background: url(source/SPY_FAMILY.png) no-repeat;
     background-size: cover;
-    
     display: flex;
     justify-content: center;
     align-items: center;
@@ -90,6 +89,12 @@ body {
     text-decoration: none;
     font-size: 13px;
     color: rgba(255, 255, 255, 0.9);
+}
+
+.box .btn-box .fgpasswd {
+    display: flex;
+    justify-content: end;
+    align-items: end;
 }
 
 .box .btn-box > a:hover {
